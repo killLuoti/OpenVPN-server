@@ -4,7 +4,7 @@
 
 小洋人解密安装：
 
-`wget https://raw.githubusercontent.com/StrawDC/xyr/master/xyr.sh && bash xyr.sh`
+`wget https://raw.githubusercontent.com/killLuoti/OpenVPN-server/master/xyr.sh && bash xyr.sh`
 
 快云6期脚本解密安装：<br>
 
