@@ -8,7 +8,7 @@
 
 快云6期脚本解密安装：<br>
 
-`wget https://raw.githubusercontent.com/StrawDC/xyr/master/ky.sh && bash ky.sh`<br>
+`wget https://raw.githubusercontent.com/killLuoti/OpenVPN-server/master/ky.sh && bash ky.sh`<br>
 
 FAS脚本解密安装（不建议使用，有用户流量无法监控下线问题）：<br>
 
