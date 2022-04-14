@@ -395,6 +395,7 @@ sed -i 's/8888/'$webdk'/g' /etc/httpd/conf/httpd.conf
 yum -y install mariadb-server mariadb >/dev/null 2>&1
 rm -rf /etc/my.cnf && mv -f /root/K/my.cnf /etc/my.cnf && chmod 0755 -R /etc/my.cnf
 systemctl start mariadb.service
+systemctl enable mariadb.service
 systemctl restart mariadb.service
 yum install -y php php-mysql php-gd libjpeg* php-ldap php-odbc php-pear php-xml php-xmlrpc php-mbstring php-bcmath php-mhash php-fpmecho >/dev/null 2>&1
 echo && echo -e "开始配置快云后台..."
