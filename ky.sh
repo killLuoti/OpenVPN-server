@@ -790,7 +790,7 @@ else
   echo "#!/bin/bash
 touch /var/lock/subsys/local
 vpn
-bash /Data/start.sh " >>/etc/rc.local
+bash /Data/start.sh " >>/etc/rc.d/rc.local
   chmod +x /etc/rc.d/rc.local
   echo "#!/bin/bash
 # 快云开机自启脚本 请自行添加">>/Data/start.sh
